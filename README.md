@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phuuongg
 - 👀 I’m interested in ...information technology
-- 🌱 I’m currently learning s...secondary school
-- 💞️ I’m looking to collaborate on ...Ha Noi university of science and tachnology
+- 🌱 I’m currently learning...secondary school
+- 💞️ I’m looking to collaborate on ...Ha Noi university of science and technology
 - 📫 How to reach me ...my phone number is 0974493909
 
 <!---
